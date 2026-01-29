@@ -2,7 +2,7 @@
 
 This project analyzes Zepto’s order data to uncover insights into customer behavior, product demand, and delivery performance using Python.
 
-Tools Used
+Tools Used :-
 
 Python
 
@@ -12,7 +12,7 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-Key Highlights
+Key Highlights :- 
 
 Order trend analysis
 
@@ -22,6 +22,9 @@ Delivery time performance
 
 Peak order hours identification
 
-Purpose
 
-Created for learning, practice, and portfolio purposes. Not affiliated with Zepto.
+
+
+Purpose :- Created for learning, practice, and portfolio purposes. Not affiliated with Zepto.
+
+
